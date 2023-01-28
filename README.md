@@ -1,16 +1,12 @@
 # adzan_test_app
 
-A new Flutter project.
+made with hive, getX.
+tools(build_runner, flutter_hive, hive_generator)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Preview of the App
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/Rov98/adzan_test_app/blob/master/photo_2023-01-28_09-52-43.jpg?raw=true)
+![alt text](https://github.com/Rov98/adzan_test_app/blob/master/photo_2023-01-28_09-53-04.jpg?raw=true)
+![alt text](https://github.com/Rov98/adzan_test_app/blob/master/photo_2023-01-28_09-53-08.jpg?raw=true)
